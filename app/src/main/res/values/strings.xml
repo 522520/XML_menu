@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">XML_menu</string>
+    <string name="test">用于测试的内容</string>
+    <string name="font_10">font_10</string>
+    <string name="font_20">font_20</string>
+    <string name="font_30">font_30</string>
+    <string name="font_40">font_40</string>
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+    <string name="plain_menu">plain_menu</string>
+    <string name="menu_font_size">menu_font_size</string>
+    <string name="TextColor">TextColor</string>
+
+</resources>
